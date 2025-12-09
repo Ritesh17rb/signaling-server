@@ -10,5 +10,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "ws": "^8.18.3",
+    "y-webrtc": "^10.3.0"
+  }
 }
